@@ -11,7 +11,7 @@ import {
   ActivityIndicator,
 } from 'react-native';
 import { Shimmering } from './Shimmering';
-import { useFetchCollection, useSearchPhotos } from './queries';
+import { useFetchCollection, useSearchPhotos } from './state/queries';
 import { Photo } from 'pexels';
 import { useNavigation } from '@react-navigation/native';
 import { useIsFetching } from 'react-query';
@@ -219,12 +219,11 @@ export function PhotosList() {
     isFetching: isFetchingPhotos,
     error,
     isError,
-    // data: photosRes,
-    // } = useSearchPhotos(state.collectionId, state.currentPage, {
-    // enabled: state.collectionId.trim() !== '',
-    // id: state.collectionId,
-    // });
-  } = { isFetching: false, isError: null, error: null };
+    data: photosRes,
+  } = useSearchPhotos(state.collectionId, state.currentPage, {
+    id: state.collectionId,
+  });
+  // } = { isFetching: false, isError: null, error: null };
 
   if (isFetchingPhotos || isFetchingCollection) {
     return (
@@ -265,6 +264,9 @@ export function PhotosList() {
               onPress={() => navigateToPhoto(photo)}
             >
               <Image source={{ uri: photo.src?.tiny }} style={styles.image} />
+              <Text style={{ position: 'absolute', top: 10, right: 10 }}>
+                {photo.liked ? '❤️' : '🤍'}
+              </Text>
             </TouchableOpacity>
           ))}
         {isFetchingPhotos && (

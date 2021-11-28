@@ -1,0 +1,728 @@
+{
+  "page": 1,
+  "per_page": 80,
+  "collections": [
+    {
+      "id": "xtpuvuy",
+      "title": "Christmas Wallpapers",
+      "description": "A curated selection of desktop wallpapers.",
+      "private": false,
+      "media_count": 104,
+      "photos_count": 104,
+      "videos_count": 0
+    },
+    {
+      "id": "zvqsoqc",
+      "title": "Christmas Backgrounds",
+      "description": "A curated selection for your phone.",
+      "private": false,
+      "media_count": 142,
+      "photos_count": 142,
+      "videos_count": 0
+    },
+    {
+      "id": "qmpguql",
+      "title": "Futuristic",
+      "description": "",
+      "private": false,
+      "media_count": 111,
+      "photos_count": 87,
+      "videos_count": 24
+    },
+    {
+      "id": "masgnom",
+      "title": "I Put A spell On You",
+      "description": "Happy Halloween 🧙",
+      "private": false,
+      "media_count": 111,
+      "photos_count": 96,
+      "videos_count": 15
+    },
+    {
+      "id": "lymwncr",
+      "title": "Ghost Trend",
+      "description": "",
+      "private": false,
+      "media_count": 69,
+      "photos_count": 60,
+      "videos_count": 9
+    },
+    {
+      "id": "codmtu1",
+      "title": "Purple Flowers",
+      "description": "",
+      "private": false,
+      "media_count": 88,
+      "photos_count": 72,
+      "videos_count": 16
+    },
+    {
+      "id": "iarxkpe",
+      "title": "Black Cats 🐈‍⬛",
+      "description": "",
+      "private": false,
+      "media_count": 53,
+      "photos_count": 43,
+      "videos_count": 10
+    },
+    {
+      "id": "vvayv5y",
+      "title": "Womens Fashion",
+      "description": "",
+      "private": false,
+      "media_count": 85,
+      "photos_count": 0,
+      "videos_count": 85
+    },
+    {
+      "id": "ri7lyju",
+      "title": "Morning Videos",
+      "description": "",
+      "private": false,
+      "media_count": 126,
+      "photos_count": 0,
+      "videos_count": 126
+    },
+    {
+      "id": "vhkuffy",
+      "title": "Coding",
+      "description": "",
+      "private": false,
+      "media_count": 57,
+      "photos_count": 45,
+      "videos_count": 12
+    },
+    {
+      "id": "gmi0lkg",
+      "title": "Neon Wallpapers",
+      "description": "",
+      "private": false,
+      "media_count": 70,
+      "photos_count": 70,
+      "videos_count": 0
+    },
+    {
+      "id": "obs48rj",
+      "title": "Turquoise Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 74,
+      "photos_count": 74,
+      "videos_count": 0
+    },
+    {
+      "id": "mjl3uir",
+      "title": "Luxury Apartments",
+      "description": "",
+      "private": false,
+      "media_count": 118,
+      "photos_count": 103,
+      "videos_count": 15
+    },
+    {
+      "id": "mcpqsra",
+      "title": "Frost",
+      "description": "",
+      "private": false,
+      "media_count": 62,
+      "photos_count": 49,
+      "videos_count": 13
+    },
+    {
+      "id": "64vvdlg",
+      "title": "Zoom Office Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 73,
+      "photos_count": 73,
+      "videos_count": 0
+    },
+    {
+      "id": "z5cowgt",
+      "title": "Toys",
+      "description": "",
+      "private": false,
+      "media_count": 103,
+      "photos_count": 81,
+      "videos_count": 22
+    },
+    {
+      "id": "d2v22fv",
+      "title": "Early Mornings",
+      "description": "",
+      "private": false,
+      "media_count": 151,
+      "photos_count": 126,
+      "videos_count": 25
+    },
+    {
+      "id": "sr6yt5u",
+      "title": "Wedding Dresses",
+      "description": "",
+      "private": false,
+      "media_count": 125,
+      "photos_count": 98,
+      "videos_count": 27
+    },
+    {
+      "id": "wtfavo2",
+      "title": "Maximalism",
+      "description": "",
+      "private": false,
+      "media_count": 116,
+      "photos_count": 86,
+      "videos_count": 30
+    },
+    {
+      "id": "wekv3xs",
+      "title": "Shopping",
+      "description": "",
+      "private": false,
+      "media_count": 124,
+      "photos_count": 90,
+      "videos_count": 34
+    },
+    {
+      "id": "a0owl1c",
+      "title": "Halloween Costumes",
+      "description": "",
+      "private": false,
+      "media_count": 98,
+      "photos_count": 76,
+      "videos_count": 22
+    },
+    {
+      "id": "x4p7pzk",
+      "title": "Halloween Pumpkins",
+      "description": "",
+      "private": false,
+      "media_count": 75,
+      "photos_count": 62,
+      "videos_count": 13
+    },
+    {
+      "id": "orz484n",
+      "title": "Protest Videos",
+      "description": "",
+      "private": false,
+      "media_count": 56,
+      "photos_count": 0,
+      "videos_count": 56
+    },
+    {
+      "id": "ha2hj77",
+      "title": "Trick Or Treat",
+      "description": "",
+      "private": false,
+      "media_count": 37,
+      "photos_count": 0,
+      "videos_count": 37
+    },
+    {
+      "id": "6mp5n2w",
+      "title": "Croissant Videos",
+      "description": "",
+      "private": false,
+      "media_count": 68,
+      "photos_count": 0,
+      "videos_count": 68
+    },
+    {
+      "id": "ply8rfb",
+      "title": "Frozen",
+      "description": "",
+      "private": false,
+      "media_count": 62,
+      "photos_count": 0,
+      "videos_count": 62
+    },
+    {
+      "id": "u4wucb9",
+      "title": "Droplets",
+      "description": "",
+      "private": false,
+      "media_count": 131,
+      "photos_count": 109,
+      "videos_count": 22
+    },
+    {
+      "id": "3ezi1en",
+      "title": "Pink skies",
+      "description": "",
+      "private": false,
+      "media_count": 82,
+      "photos_count": 73,
+      "videos_count": 9
+    },
+    {
+      "id": "ouflrwp",
+      "title": "Wooden Textures",
+      "description": "",
+      "private": false,
+      "media_count": 104,
+      "photos_count": 104,
+      "videos_count": 0
+    },
+    {
+      "id": "3h3ftxp",
+      "title": "Old Photos",
+      "description": "",
+      "private": false,
+      "media_count": 251,
+      "photos_count": 238,
+      "videos_count": 13
+    },
+    {
+      "id": "l8dg4tx",
+      "title": "October",
+      "description": "",
+      "private": false,
+      "media_count": 142,
+      "photos_count": 115,
+      "videos_count": 27
+    },
+    {
+      "id": "zutst5p",
+      "title": "Christmas Decorations",
+      "description": "",
+      "private": false,
+      "media_count": 108,
+      "photos_count": 82,
+      "videos_count": 26
+    },
+    {
+      "id": "ji3n6vt",
+      "title": "World Singing Day",
+      "description": "Oct 21st",
+      "private": false,
+      "media_count": 86,
+      "photos_count": 58,
+      "videos_count": 28
+    },
+    {
+      "id": "jb6r1s4",
+      "title": "Rainbow Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 64,
+      "photos_count": 64,
+      "videos_count": 0
+    },
+    {
+      "id": "2qn8ddn",
+      "title": "Vertical Nature",
+      "description": "",
+      "private": false,
+      "media_count": 200,
+      "photos_count": 169,
+      "videos_count": 31
+    },
+    {
+      "id": "i09r4v4",
+      "title": "Red",
+      "description": "",
+      "private": false,
+      "media_count": 178,
+      "photos_count": 140,
+      "videos_count": 38
+    },
+    {
+      "id": "hbsqwun",
+      "title": "World Food Day",
+      "description": "October 16th",
+      "private": false,
+      "media_count": 152,
+      "photos_count": 107,
+      "videos_count": 45
+    },
+    {
+      "id": "vmilo5m",
+      "title": "Autumn Flowers",
+      "description": "",
+      "private": false,
+      "media_count": 96,
+      "photos_count": 96,
+      "videos_count": 0
+    },
+    {
+      "id": "i65nd00",
+      "title": "Foliage",
+      "description": "",
+      "private": false,
+      "media_count": 175,
+      "photos_count": 144,
+      "videos_count": 31
+    },
+    {
+      "id": "t85kd1h",
+      "title": "Rabbit Videos",
+      "description": "",
+      "private": false,
+      "media_count": 44,
+      "photos_count": 0,
+      "videos_count": 44
+    },
+    {
+      "id": "x9u42w6",
+      "title": "World Teachers Day",
+      "description": "October 5th",
+      "private": false,
+      "media_count": 95,
+      "photos_count": 75,
+      "videos_count": 20
+    },
+    {
+      "id": "6goq5hj",
+      "title": "Vertical Landscapes",
+      "description": "",
+      "private": false,
+      "media_count": 166,
+      "photos_count": 166,
+      "videos_count": 0
+    },
+    {
+      "id": "rq03g4l",
+      "title": "Halloween Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 102,
+      "photos_count": 102,
+      "videos_count": 0
+    },
+    {
+      "id": "m8d1imp",
+      "title": "Autumn Phone Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 92,
+      "photos_count": 92,
+      "videos_count": 0
+    },
+    {
+      "id": "nxmpzzt",
+      "title": "Christmas Gifts",
+      "description": "",
+      "private": false,
+      "media_count": 112,
+      "photos_count": 91,
+      "videos_count": 21
+    },
+    {
+      "id": "npbhzeh",
+      "title": "Neon Signs",
+      "description": "",
+      "private": false,
+      "media_count": 142,
+      "photos_count": 125,
+      "videos_count": 17
+    },
+    {
+      "id": "1zxneg8",
+      "title": "Coffee Backgrounds",
+      "description": "",
+      "private": false,
+      "media_count": 90,
+      "photos_count": 90,
+      "videos_count": 0
+    },
+    {
+      "id": "c26lxwb",
+      "title": "Wedding Videos",
+      "description": "",
+      "private": false,
+      "media_count": 53,
+      "photos_count": 0,
+      "videos_count": 53
+    },
+    {
+      "id": "c1abqhc",
+      "title": "Autumnal Equinox",
+      "description": "It's officially autumn! Woo.",
+      "private": false,
+      "media_count": 139,
+      "photos_count": 109,
+      "videos_count": 30
+    },
+    {
+      "id": "aaczojs",
+      "title": "Floral Flatlays",
+      "description": "",
+      "private": false,
+      "media_count": 88,
+      "photos_count": 88,
+      "videos_count": 0
+    },
+    {
+      "id": "rnzpttq",
+      "title": "Rain On Me",
+      "description": "",
+      "private": false,
+      "media_count": 145,
+      "photos_count": 116,
+      "videos_count": 29
+    },
+    {
+      "id": "5evq2no",
+      "title": "Best Of Drones",
+      "description": "",
+      "private": false,
+      "media_count": 145,
+      "photos_count": 145,
+      "videos_count": 0
+    },
+    {
+      "id": "j0ihm3a",
+      "title": "Dunes",
+      "description": "",
+      "private": false,
+      "media_count": 100,
+      "photos_count": 93,
+      "videos_count": 7
+    },
+    {
+      "id": "siks858",
+      "title": "Self Care",
+      "description": "",
+      "private": false,
+      "media_count": 150,
+      "photos_count": 137,
+      "videos_count": 13
+    },
+    {
+      "id": "6typy55",
+      "title": "Inkscapes",
+      "description": "",
+      "private": false,
+      "media_count": 100,
+      "photos_count": 100,
+      "videos_count": 0
+    },
+    {
+      "id": "m1w00pj",
+      "title": "Identity Unfiltered",
+      "description": "",
+      "private": false,
+      "media_count": 57,
+      "photos_count": 47,
+      "videos_count": 10
+    },
+    {
+      "id": "3cuxs3x",
+      "title": "Pregnancy Videos",
+      "description": "",
+      "private": false,
+      "media_count": 78,
+      "photos_count": 0,
+      "videos_count": 78
+    },
+    {
+      "id": "tj2kobt",
+      "title": "Relax",
+      "description": "",
+      "private": false,
+      "media_count": 158,
+      "photos_count": 136,
+      "videos_count": 22
+    },
+    {
+      "id": "3ismzqj",
+      "title": "Fields",
+      "description": "",
+      "private": false,
+      "media_count": 140,
+      "photos_count": 119,
+      "videos_count": 21
+    },
+    {
+      "id": "7vzw8ax",
+      "title": "Green Nature Videos",
+      "description": "",
+      "private": false,
+      "media_count": 108,
+      "photos_count": 0,
+      "videos_count": 108
+    },
+    {
+      "id": "qvb4vxb",
+      "title": "Streets At Night",
+      "description": "",
+      "private": false,
+      "media_count": 117,
+      "photos_count": 100,
+      "videos_count": 17
+    },
+    {
+      "id": "tdqsonb",
+      "title": "Egypt",
+      "description": "",
+      "private": false,
+      "media_count": 110,
+      "photos_count": 96,
+      "videos_count": 14
+    },
+    {
+      "id": "dw6zl6x",
+      "title": "Castles",
+      "description": "",
+      "private": false,
+      "media_count": 137,
+      "photos_count": 117,
+      "videos_count": 20
+    },
+    {
+      "id": "d1j9mjy",
+      "title": "Side Profiles",
+      "description": "",
+      "private": false,
+      "media_count": 129,
+      "photos_count": 129,
+      "videos_count": 0
+    },
+    {
+      "id": "z4r491a",
+      "title": "Minimalism Videos",
+      "description": "",
+      "private": false,
+      "media_count": 87,
+      "photos_count": 0,
+      "videos_count": 87
+    },
+    {
+      "id": "lpbcdm1",
+      "title": "One Flower",
+      "description": "",
+      "private": false,
+      "media_count": 133,
+      "photos_count": 103,
+      "videos_count": 30
+    },
+    {
+      "id": "c9e2ocf",
+      "title": "Strike A Pose",
+      "description": "",
+      "private": false,
+      "media_count": 192,
+      "photos_count": 150,
+      "videos_count": 42
+    },
+    {
+      "id": "k3xqdlo",
+      "title": "Volunteering",
+      "description": "",
+      "private": false,
+      "media_count": 91,
+      "photos_count": 70,
+      "videos_count": 21
+    },
+    {
+      "id": "yls9nui",
+      "title": "Let's Go Outside",
+      "description": "",
+      "private": false,
+      "media_count": 130,
+      "photos_count": 0,
+      "videos_count": 130
+    },
+    {
+      "id": "ultanns",
+      "title": "Roller skates",
+      "description": "",
+      "private": false,
+      "media_count": 73,
+      "photos_count": 56,
+      "videos_count": 17
+    },
+    {
+      "id": "axjifq5",
+      "title": "Cities At Night",
+      "description": "A collection of videos of cities at night",
+      "private": false,
+      "media_count": 64,
+      "photos_count": 0,
+      "videos_count": 64
+    },
+    {
+      "id": "x2gadw0",
+      "title": "Smile",
+      "description": "",
+      "private": false,
+      "media_count": 98,
+      "photos_count": 81,
+      "videos_count": 17
+    },
+    {
+      "id": "vqw82n7",
+      "title": "Romance Awareness Month",
+      "description": "August",
+      "private": false,
+      "media_count": 142,
+      "photos_count": 116,
+      "videos_count": 26
+    },
+    {
+      "id": "y9a7mk2",
+      "title": "International Cat Day",
+      "description": "August 8th",
+      "private": false,
+      "media_count": 174,
+      "photos_count": 148,
+      "videos_count": 26
+    },
+    {
+      "id": "w59sle2",
+      "title": "National Picnic Month",
+      "description": "August",
+      "private": false,
+      "media_count": 213,
+      "photos_count": 149,
+      "videos_count": 64
+    },
+    {
+      "id": "jhbrj4c",
+      "title": "Friendship Day",
+      "description": "August 1st",
+      "private": false,
+      "media_count": 193,
+      "photos_count": 150,
+      "videos_count": 43
+    },
+    {
+      "id": "l4lcl3a",
+      "title": "Senior Citizen's Day",
+      "description": "",
+      "private": false,
+      "media_count": 124,
+      "photos_count": 124,
+      "videos_count": 0
+    },
+    {
+      "id": "kz86jrn",
+      "title": "Lights \u0026 Shadows",
+      "description": "",
+      "private": false,
+      "media_count": 148,
+      "photos_count": 119,
+      "videos_count": 29
+    },
+    {
+      "id": "7ai9hep",
+      "title": "Gradient",
+      "description": "",
+      "private": false,
+      "media_count": 87,
+      "photos_count": 87,
+      "videos_count": 0
+    },
+    {
+      "id": "kxyislb",
+      "title": "Headshots",
+      "description": "",
+      "private": false,
+      "media_count": 114,
+      "photos_count": 114,
+      "videos_count": 0
+    }
+  ],
+  "total_results": 603,
+  "next_page": "https://api.pexels.com/v1/collections/featured/?page=2\u0026per_page=80"
+}

@@ -1,8 +1,10 @@
 import { createClient, ErrorResponse, Photos, Collection } from 'pexels';
-import { API_KEY } from '../.env';
+import { API_KEY } from '../../.env';
 import { useQuery } from 'react-query';
+import axios from 'axios';
 
 const client = createClient(API_KEY ?? 'not_provided');
+export const API_BASE = 'http://localhost:4000/api';
 
 interface IUsePhotos {
   data?: Photos;
@@ -17,16 +19,24 @@ export function useSearchPhotos(
   options?: { id?: string; enabled?: boolean }
 ): IUsePhotos {
   const { isError, isLoading, data, error, isSuccess } = useQuery(
-    ['curated_collection', options?.id],
-    async () =>
-      await client.photos.search({
-        per_page: 10,
-        page,
-        query: collectionId,
-      }),
-    {
-      enabled: options?.enabled,
-    }
+    ['photos', options?.id],
+    // async () =>
+    //   await client.photos.curated({
+    //     per_page: 100,
+    //   })
+    () =>
+      fetch(`${API_BASE}/photos`, {
+        method: 'GET',
+        headers: {
+          Authorization: `whatever-you-can-send-for-now`,
+          'Content-Type': 'application/json',
+        },
+      }).then((res) => {
+        if (!res.ok) {
+          throw new Error('Message: Cannot get log ');
+        }
+        return res.json();
+      })
   );
 
   if (isSuccess && !isError) {

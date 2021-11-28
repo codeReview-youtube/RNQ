@@ -2,11 +2,11 @@ import React from 'react';
 import { NavigationContainer } from '@react-navigation/native';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
 
-import { QueryClientProvider, QueryClient } from 'react-query';
+import { QueryClientProvider } from 'react-query';
+import { client } from './src/state';
 import { PhotosList, Photo } from './src';
 
 console.disableYellowBox = true;
-const queryClient = new QueryClient();
 
 const Stack = createNativeStackNavigator();
 const RootRoute = () => {
@@ -28,7 +28,7 @@ const RootRoute = () => {
 
 export function App() {
   return (
-    <QueryClientProvider client={queryClient}>
+    <QueryClientProvider client={client}>
       <NavigationContainer>
         <RootRoute />
       </NavigationContainer>

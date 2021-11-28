@@ -7,6 +7,7 @@ export interface IPhoto {
   photographer_url: string;
   photographer_id: number;
   avg_color: string;
+  liked: boolean;
   src: {
     original: string;
     large2x: string;
